@@ -22,6 +22,9 @@ fixed most bugs ..
     <li> <a href="https://github.com/AaBbdev29">Github</a> </li>
     <li> <a href="https://twitter.com/imaginative_dev">Twitter</a></li>
     </ul>
+    <p>This theme has forked from this project
+      <a href="https://themes.vscode.one/theme/lennythetechie/o8CSDFWb"> credit: lennythetechie </a>
+    </p>
   </div>
 
 # Screenshots

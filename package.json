@@ -1,0 +1,35 @@
+{
+  "name": "shades-of-cyan-theme",
+  "publisher": "moondevaa",
+  "displayName": "Shades of Cyan theme",
+  "description": "dark theme with attarctive Shades of Cyan colores",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "cyan"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaBbdev29/"
+  },
+  "icon": "icon.png", 
+  "theme": "dark",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shades of Cyan theme",
+        "uiTheme": "vs-dark",
+        "path": "themes/shades-of-cyan-theme.json"
+      }
+    ]
+  }
+  ,"scripts": {
+    "deploy": "vsce publish --yarn"
+  }
+}

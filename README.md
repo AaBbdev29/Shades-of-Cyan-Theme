@@ -25,3 +25,26 @@ fixed most bugs ..
   </div>
 
 # Screenshots
+
+############
+<div align="center">
+    <h2>Rust</h2>
+    <img src="https://github.com/AaBbdev29/Shades-of-Cyan-Theme/blob/main/%20screenshots/rust.png?raw=true" alt="Rust"/>
+</div>
+############
+<div align="center">
+    <h2>Html</h2>
+    <img src="https://github.com/AaBbdev29/Shades-of-Cyan-Theme/blob/main/%20screenshots/html.png?raw=true" alt="Html"/>
+</div>
+############
+<div align="center">
+    <h2>Javascript</h2>
+    <img src="https://github.com/AaBbdev29/Shades-of-Cyan-Theme/blob/main/%20screenshots/js.png?raw=true" alt="js"/>
+</div>
+############
+<div align="center">
+    <h2>Css</h2>
+    <img src="https://github.com/AaBbdev29/Shades-of-Cyan-Theme/blob/main/%20screenshots/css.png?raw=true" alt="css"/>
+</div>
+############
+

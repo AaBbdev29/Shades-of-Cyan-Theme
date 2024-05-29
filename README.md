@@ -10,7 +10,7 @@ A dark theme with attratice colores for Visual Studio Code.
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
 2. Search for `Shades of Cyan theme`, choose `Shades of Cyan theme` by moondevaa
 3. Click **Install** to install it
-4. Navigate to File > Preferences > Color Theme > ""dark plus moon light""
+4. Navigate to File > Preferences > Color Theme > ""Shades of Cyan theme`""
 #enjoy coding,.
 Codes are From AI
 ## change Log

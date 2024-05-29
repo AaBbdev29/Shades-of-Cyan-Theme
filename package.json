@@ -2,7 +2,7 @@
   "name": "shades-of-cyan-theme",
   "publisher": "moondevaa",
   "displayName": "Shades of Cyan theme",
-  "description": "dark theme with attarctive Shades of Cyan colores",
+  "description": "dark theme with attarctive Shades of Cyan colors",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.78.0"

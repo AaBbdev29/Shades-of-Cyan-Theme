@@ -2,7 +2,7 @@
 
 # Shades of Cyan theme
 
-A dark theme with attratice colores for Visual Studio Code.
+A dark theme with attratice colors for Visual Studio Code.
 </div>
 
 # Installation

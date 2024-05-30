@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Shades of Cyan theme",
   "description": "dark theme with attarctive Shades of Cyan colors",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -15,7 +15,15 @@
     "Celeste","Keppel","Alice","Anthocyanin","Pastel","tile","face","bold","bright","Bubbles","Cerulean",
   "Cyaneus","deep","jetbrains","Diamond","fresh","air","neon","Glossy","Matte","Metallic","Medium",
     "Moonstone","Neutral","Pale","pine","Retro","Robin","sea","Sky","moon","vivid","soft","Strong","Viridian",
-    "Waterspout","project","2077","metro"
+    "Waterspout","project","2077","metro","Cosmic","Darcula","Darcula Darker","Dark Phoenix","Darwin","github","extra","Horizon","lunar","karma",
+    "Material","Mystic","city","Night","owl","cold","ocean","pro","Monokai","syntax","space","seti","sweet","Snazzy","Stellar","Tommorow","edge",
+    "Xcode","Fusion","best","abyss","top","ten","bee","vim","neo","vue","react","gruvbox","rainbow","rate","cyberpunk","angular","flat","aura","doki",
+    "ruby","super","aurora","x","y","7","hack","firefly","code","coding","cold","polar","beautiful","new","fantastic","modern","simple","default",
+    "classic","smooth","vs","just","go","frost","wind","ultimate","free","zen","turboo","panda","style","cozy","high","dev","calm","relax","art",
+    "dream","art","star","move","linux","game","hope","cat","gray","min","max","windows","mac","nice","good","background","arch","nova","idea","void",
+    "matrix","c++","product","mega","box","magic","operator","intellij","jelly","net","ultra","vibe","node","wave","focus","visual","base","c","highlighter",
+    "sun","workbench"
+
   ],
   "repository": {
     "type": "git",
